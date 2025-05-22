@@ -29,6 +29,7 @@ Libraries:
 Tools:
 - Jupyter
 - Git
+- Excel
 
 ### Featured Projects
 - [🥊 UFC Betting Classifier](https://github.com/lucas-meadows/UFC-Classifier.git): Logistic regression model to detect significant line movements using pre-fight features.  
